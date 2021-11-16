@@ -1,3 +1,4 @@
 # NasaAplikace
 Filip Forejt
-  awdawd
+*jo
+  *ne
