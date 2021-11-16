@@ -20,6 +20,7 @@ Filip Forejt
     * Uživatelské rozhraní
       * XamarinForms
     * Softwarová rozhraní
+      * Android
 * Vlastnosti systému
     * Hlavní okno
       * Zobrazení předmětů kolem Země
