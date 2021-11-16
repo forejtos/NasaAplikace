@@ -6,7 +6,7 @@ Filip Forejt
   * Konvence dokumentu
   * Pro koho je dokument určený
   * Odkazy na ostatní dokumenty
-    * odkaz
+    * https://github.com/forejtos/NasaAplikace/blob/main/SRS.md
 
 * Scénáře
   * Všechny reálné zpúsoby použití
