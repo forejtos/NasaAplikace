@@ -4,7 +4,7 @@ Filip Forejt
   * Účel
     * Úkolem bude vytvořit jednoduchou a přehlednou aplikaci v prostředí Xamarin, který bude vypisovat objektů v okolí země podle informací od NASA. Uživatel to nebude muset složitě vyhledávat v prohlížeči a bude to mít přehledně v aplikaci, ve které nebude mít problém číst informace
   * Konvence dokumentu
-    * text
+    * Důležité části budou zvýrazněné
   * Pro koho je dokument určený
     * text
   * Odkazy na ostatní dokumenty
