@@ -23,7 +23,7 @@ Filip Forejt
   * Pracovní tok
     * Aplikace bude pro uživatele **přehlednější a jednodušší** na používání, protože informace přímo od JSON jsou vcelku nepřehledné a nekaždý v tom umí číst
   * Detaily
-    * Program bude mít jedno **hlavní okno**, kde bude vypsán seznam s informacemi pro jednotlivé asteroidy. Jelikož budou data přímo od **NASA serveru**, budou dány a uživatel s nimi nebude moc manipulovat nebo je přepisovat
+    * Program bude mít jedno **hlavní okno**, kde bude vypsán seznam s informacemi pro jednotlivé asteroidy. Jelikož budou data přímo od **NASA serveru**, budou dány a uživatel s nimi nebude moc manipulovat, přepisovat nebo jakkoliv upravovat
   * Všechny možné toky programu a jejich projevy
     * Hlavní okno bude zobrazovat **seznam asteroidů v blízkosti Země** s jejich vlastnotmi, ale také **vzdálenost od Země a čas**, kdy byl zaznamenán. Data budou **pravidelně aktualizována** při přístupu k internetu, jinak budou zobrazeny poslední data s časem poslední aktualizace
 
