@@ -6,7 +6,7 @@ Filip Forejt
   * Konvence dokumentu
     * Důležité části budou zvýrazněné
   * Pro koho je dokument určený
-    * text
+    * Pro uživatele, kteří chtějí mít podrobnou zprávu o programu, buď aby tomu rozuměli, nebo pokud by chtěli program nějak vylepšit do budoucna, pokud zde vidí chyby, které by mohli být vyřešeny jinak.
   * Odkazy na ostatní dokumenty
     * https://github.com/forejtos/NasaAplikace/blob/main/SRS.md
 
