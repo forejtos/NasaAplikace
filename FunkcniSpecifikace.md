@@ -2,7 +2,7 @@
 Filip Forejt
 * Úvod
   * Účel
-    * Úkolem bude vytvořit aplikaci v prostředí Xamarin, který bude vypisovat objektů v okolí země podle informací od NASA
+    * Úkolem bude vytvořit jednoduchou a přehlednou aplikaci v prostředí Xamarin, který bude vypisovat objektů v okolí země podle informací od NASA. Uživatel to nebude muset složitě vyhledávat v prohlížeči a bude to mít přehledně v aplikaci, ve které nebude mít problém číst informace
   * Konvence dokumentu
     * text
   * Pro koho je dokument určený
@@ -21,7 +21,7 @@ Filip Forejt
     * text
 * Celková hrubá architektura
   * Pracovní tok
-    * text
+    * Aplikace bude pro uživatele přehlednější a jednodušší na používání, protože informace přímo od JSON jsou vcelku nepřehledné a nekaždý v tom umí číst
   * Detaily
     * text
   * Všechny možné toky programu a jejich projevy
