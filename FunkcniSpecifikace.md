@@ -18,7 +18,7 @@ Filip Forejt
   * Vymezení rozsahu
     * Program bude obsahovat informace pouze od NASA ze serveru NASA API a to konkrétně objekty v okolí Země.
   * Na co se nebude klást důraz
-    * Důraz se nebude klást na složitost, jelikož chceem mít přehledný a jednoduchý program, tudíž složitost programu není potřeba.
+    * Důraz se nebude klást hlavně na **složitost**, jelikož chceme mít **přehledný a jednoduchý** program, tudíž složitost programu není potřeba.
 * Celková hrubá architektura
   * Pracovní tok
     * Aplikace bude pro uživatele přehlednější a jednodušší na používání, protože informace přímo od JSON jsou vcelku nepřehledné a nekaždý v tom umí číst
